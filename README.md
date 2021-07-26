@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A first year computer science major named Ethan Posner, currently attending Vancouver Island University. I mostly enjoy coding in Java, but have the most experience in Python.
+A first year student majoring in computer science named Ethan Posner, currently attending Vancouver Island University. I mostly enjoy coding in Java, but have the most experience in Python.
 
 I am very interested in projects which involve processing large amounts of data and returning meaningful results based on it.
 
