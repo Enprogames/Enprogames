@@ -19,7 +19,8 @@ I'm currently working on:
 - **[Course Capsule](https://github.com/CSCI375-Stormtroopers/Course-Capsule)**: Website for students and teachers to share educational content for their courses, created using FastAPI, HTML/CSS/JavaScript.
 
 I also have the following projects that I've created by myself in the past:
-- **[Flashcard Tool](https://github.com/Enprogames/Flashcard-Tool)**: A tool for memorizing large amounts of information. It has been a good aid to my studying. 
+- **[Tekku](https://github.com/Enprogames/Tekku)**: A PHP forum website created using the L.A.M.P. stack, allowing users to post images under various topics. Dockerized to allow for easier deployment.
+- **[Flashcard Tool](https://github.com/Enprogames/Flashcard-Tool)**: A tool for memorizing large amounts of information. It has been a great aid to my own personal studying. 
     - Uses python's Tkinter GUI library
 - **[Music Player](https://github.com/Enprogames/MusicPlayer)**: A small program which can be used to play song files.
     - Uses python's Tkinter GUI library
