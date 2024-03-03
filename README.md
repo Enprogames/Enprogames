@@ -20,6 +20,7 @@ I'm currently working on:
 
 I also have the following projects that I've created by myself in the past:
 - **[Tekku](https://github.com/Enprogames/Tekku)**: A PHP forum website created using the L.A.M.P. stack, allowing users to post images under various topics. Dockerized to allow for easier deployment.
+- **[SQL Injection Example Website](https://github.com/Enprogames/SQL-Injection-Example)**: Created in collaboration with Sebastian Van Den Bremt, a Django website that is vulnerable to SQL injection attacks. Demonstrates how easy this attack is to exploit.
 - **[Flashcard Tool](https://github.com/Enprogames/Flashcard-Tool)**: A tool for memorizing large amounts of information. It has been a great aid to my own personal studying. 
     - Uses python's Tkinter GUI library
 - **[Music Player](https://github.com/Enprogames/MusicPlayer)**: A small program which can be used to play song files.
