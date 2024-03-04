@@ -15,7 +15,7 @@ I'm currently reading [Hands-On Machine Learning with Scikit-Learn, Keras, and T
 learning so that I can implement it into my [stock trading program](https://github.com/Enprogames/Stock-Bot).
 
 I'm currently working on:
-- **[Bitcoin Janusgraph](https://github.com/Enprogames/Bitcoin_JanusGraph)**: Undergraduate research project with goal of developing methods for tracing bitcoin transactions. Uses the Janusgraph graph database to efficiently query bitcoin data in a graph format.
+- **[Bitcoin Research Project](https://github.com/Enprogames/Bitcoin_JanusGraph)**: Undergraduate research project with goal of developing methods for tracing bitcoin transactions. Uses the Janusgraph graph database to efficiently query bitcoin data in a graph format.
 - **[Course Capsule](https://github.com/CSCI375-Stormtroopers/Course-Capsule)**: Website for students and teachers to share educational content for their courses, created using FastAPI, HTML/CSS/JavaScript.
 
 I also have the following projects that I've created by myself in the past:
