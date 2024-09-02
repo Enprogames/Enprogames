@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a fourth year student majoring in computer science named Ethan Posner, currently attending Vancouver Island University. I mostly code in Python, but have experience with JavaScript, PHP, HTML/CSS, C/C++, and Java.
+I'm Ethan Posner. I majored in computer science at Vancouver Island University. I mostly code in C# and Python, but have experience with JavaScript, PHP, HTML/CSS, C/C++, and Java.
+
+Most of my time is focused at Yourgene Health Canada, where my team and I work hard to develop and maintain software for instruments that are used for [DNA size selection](https://yourgenehealth.com/our-products/technologies/next-generation-size-selection/).
 
 I have lots of experience developing full-stack web applications using Python, PHP, HTML/CSS, and JavaScript. I gained lots of experience in this while working at [Bytedeck Learning Society](https://github.com/bytedeck) for my summer 2023 co-op.
 
@@ -8,17 +10,15 @@ I also developed [Tekku](https://github.com/Enprogames/Tekku) in collaboration w
 
 I am very interested in projects which involve processing large amounts of data and returning meaningful results based on it.
 
+I am also very interested in low-level computing concepts, such as emulation of old hardware.
+
 ### My Projects
-Most of my time is spent towards completing my bachelor's degree in computer science, but I'm also working on various programming projects.
 
-I'm currently reading [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron. My goal is to become proficient with machine
-learning so that I can implement it into my [stock trading program](https://github.com/Enprogames/Stock-Bot).
+I've completed the following personal and collaborative projects:
 
-I'm currently working on:
+- **[.NET Maui Flashcard Viewer](https://github.com/Enprogames/Maui-Flashcard-Viewer)**: A simple desktop/mobile application, created using .NET Maui, designed for creating and viewing flashcards.
 - **[Bitcoin Research Project](https://github.com/Enprogames/Bitcoin_JanusGraph)**: Undergraduate research project with goal of developing methods for tracing bitcoin transactions. Uses the Janusgraph graph database to efficiently query bitcoin data in a graph format.
 - **[Course Capsule](https://github.com/CSCI375-Stormtroopers/Course-Capsule)**: Website for students and teachers to share educational content for their courses, created using FastAPI, HTML/CSS/JavaScript.
-
-I also have the following projects that I've created by myself in the past:
 - **[Tekku](https://github.com/Enprogames/Tekku)**: A PHP forum website created using the L.A.M.P. stack, allowing users to post images under various topics. Dockerized to allow for easier deployment.
 - **[SQL Injection Example Website](https://github.com/Enprogames/SQL-Injection-Example)**: Created in collaboration with Sebastian Van Den Bremt, a Django website that is vulnerable to SQL injection attacks. Demonstrates how easy this attack is to exploit.
 - **[Flashcard Tool](https://github.com/Enprogames/Flashcard-Tool)**: A tool for memorizing large amounts of information. It has been a great aid to my own personal studying. 
