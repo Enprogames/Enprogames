@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ethan Posner. I majored in computer science at Vancouver Island University. I mostly code in C# and Python, but have experience with JavaScript, PHP, HTML/CSS, C/C++, and Java.
+I'm Ethan Posner. I majored in computer science at Vancouver Island University. I mostly code in rust, C#, and Python, but have experience with JavaScript, PHP, HTML/CSS, C/C++, and Java.
 
 Most of my time is focused at Yourgene Health Canada, where my team and I work hard to develop and maintain software for instruments that are used for [DNA size selection](https://yourgenehealth.com/our-products/technologies/next-generation-size-selection/).
 
